@@ -62,7 +62,13 @@ for incident in incident_containers[1:]:
     
     
 df1 = pd.DataFrame(data, columns=["school", "date", "category", "description", "details"])
-df1.to_csv ("/Users/jessicajakoby/Documents/WN_2020/INFO5330_TMD/Hackathon Anti-Semitism/amcha.csv", index = None, header=True)
+db_data = 'mysql://TastMaster:tastmaster@rds-mysql-tastas.cvy9qgmlw3xt.us-west-2.rds.amazonaws.com:3306/sys'
+
+engine = create_engine(db_data)
+
+start = datetime.datetime.now()
+df1.to_sql(con=engine, name='Incidents', if_exists='replace', chunksize=10000)
+print("The query executed in: " + str((datetime.datetime.now() - start).total_seconds()) + "s")
 
 
 
