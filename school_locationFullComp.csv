@@ -1,0 +1,417 @@
+Name,City,State
+Santa Monica College,Santa Monica,CA
+George Washington University,Washington,DC
+Ohio University,Athens,OH
+Western Washington University,Bellingham,WA
+Tufts University,Medford,MA
+University of Massachusetts Amherst,Amherst,MA
+Harvard University,Cambridge,MA
+University of Maryland,Adelphi,MD
+University of California Santa Barbara,Isla Vista,CA
+University of Iowa,Iowa City,IA
+University of California Berkeley,Berkeley,CA
+Bard College,Annandale-On-Hudson,NY
+San Francisco State University,San Francisco,CA
+University of Miami,Coral Gables,FL
+Rutgers University - Newark,Newark,NJ
+"University of Florida, Gainesville",Gainesville,FL
+Yeshiva University,New York,NY
+Columbia University/Barnard College,New York,NY
+University of Illinois Urbana Champaign,Urbana,IL
+Yale University,New Haven,CT
+Florida State University,Tallahassee,FL
+Brown University,Providence,RI
+Johns Hopkins University,Baltimore,MD
+Northeastern University,Boston,MA
+CUNY Queens College,Flushing,NY
+University of California Los Angeles,Los Angeles,CA
+University of California Davis,,
+Georgetown University,Washington,DC
+Middlebury College,Middlebury,VT
+Wesleyan University,Middletown,CT
+University of Chicago,Chicago,IL
+Rice University,Houston,TX
+Duke University,Durham,NC
+Irvine Valley College,Irvine,CA
+CUNY School of Law,Long Island City,NY
+Boston University,Boston,MA
+University of San Francisco,San Francisco,CA
+Orange Coast College,Costa Mesa,CA
+Rutgers University - New Brunswick,New Brunswick,NJ
+Vassar College,Poughkeepsie,NY
+Eastern Illinois University,Charleston,IL
+San Diego State University,San Diego,CA
+University of Michigan,Ann Arbor,MI
+Ohio State University,Columbus,OH
+Butler University,Indianapolis,IN
+Michigan State University,Lansing,MI
+Florida Atlantic University,Boca Raton,FL
+Boston College,Chestnut Hill,MA
+University of California Riverside,Riverside,CA
+Iowa State University,Ames,IA
+Drexel University,Philadelphia,PA
+University of Washington,St. Louis,MO
+"University of Colorado, Denver",Denver,CO
+Stanford University,Stanford,CA
+Worcester State University,Worcester,MA
+University of North Carolina Chapel Hill,Chapel Hill,NC
+Syracuse University,Syracuse,NY
+Grand Valley State University,Allendale,MI
+Marshall University,Huntington,WV
+Emerson College,Boston,MA
+University of Montana,Missoula,MT
+Northwestern University,Evanston,IL
+Massachusetts Institute of Technology,Cambridge,MA
+"University of North Carolina, Wilmington",Wilmington,NC
+Georgia Institute of Technology,Atlanta,GA
+American Jewish University,Los Angeles,CA
+CSU Fullerton,Fullerton,CA
+Indiana University,Bloomington,IN
+Temple University,Philadelphia,PA
+University of Vermont,Burlington,VT
+Princeton University,Princeton,NJ
+Dickinson College,Carlisle,PA
+Wheaton College,Wheaton,IL
+Columbus State Community College,Columbus,OH
+Occidental College,Los Angeles,CA
+Arizona State University,Tempe,AZ
+University of Connecticut,Storrs,CT
+SUNY Buffalo,Buffalo,NY
+Swarthmore College,Swarthmore,PA
+Whitman College,Walla Walla,WA
+University of Georgia,Athens,GA
+University at Albany,Albany,NY
+Emory University,Oxford,GA
+Fordham University,The Bronx,NY
+Oberlin College,Oberlin,OH
+Hampshire College,Amherst,MA
+Lesley University,Cambridge,MA
+SUNY Binghamton,Vestal,NY
+University of California San Diego,La Jolla,CA
+Georgia College,Milledgeville,GA
+University of South Carolina,Columbia,SC
+CUNY City College,New York,NY
+Claremont Colleges - Pomona,Claremont,CA
+Rhode Island College,Providence,RI
+University of Massachusetts Boston,Boston,MA
+University of Pennsylvania,Philadelphia,PA
+University of Pittsburgh,Pittsburgh,PA
+Bellevue College,Bellevue,WA
+University of Texas Austin,Austin,TX
+Wayne State University,Detroit,MI
+CSU Chico,,
+Allan Hancock College,Santa Maria,CA
+Bryn Mawr College,Bryn Mawr,PA
+Eastern Florida State College,Cocoa,FL
+University of Central Florida,Orlando,FL
+Brookhaven College,Farmers Branch,TX
+Cornell University,Ithaca,NY
+University of Southern California,Los Angeles,CA
+Tulane University,New Orleans,LA
+New York University,New York,NY
+University of South Florida,Tampa,FL
+Benedictine University,Lisle,IL
+Smith College,Northampton,MA
+"University of Nevada, Reno",Reno,NV
+University of Houston,Houston,TX
+DePaul University,Chicago,IL
+Case Western Reserve University,Cleveland,OH
+University of Minnesota Twin Cities,Minneapolis,MN
+Portland State University,Portland,OR
+Purdue University,Wabash Township,IN
+Furman University,Greenville,SC
+Thomas Jefferson University,Philadelphia,PA
+University of California Irvine,Irvine,CA
+Clovis Community College,Fresno,CA
+Colorado State University,Fort Collins,CO
+Kennesaw State University,Kennesaw,GA
+University of Missouri,,
+"University of Tennessee, Knoxville",Knoxville,TN
+Lehigh University,Bethlehem,PA
+Davidson College,Davidson,NC
+Clemson University,Clemson,SC
+University of Texas Dallas,Richardson,TX
+Chapman University,Orange,CA
+Brandeis University,Waltham,MA
+University of Southern Indiana,Evansville,IN
+University of Indianapolis,Indianapolis,IN
+Santa Rosa Junior College,Santa Rosa,CA
+St. John's University,Jamaica,NY
+Denison University,Granville,OH
+Claremont Colleges - Pitzer,Claremont,CA
+Williams College,Williamstown,MA
+University of Michigan - Dearborn,Dearborn,MI
+CUNY Brooklyn College,Brooklyn,NY
+Long Beach City College,Long Beach,CA
+North Carolina State University,Raleigh,NC
+"University of Wisconsin, Milwaukee",Milwaukee,WI
+Arkansas Tech University,Russellville,AR
+Sacramento State University,Sacramento,CA
+San Jose State University,San Jose,CA
+Ursinus College,Collegeville,PA
+University of Illinois at Chicago,Chicago,IL
+"University of Wisconsin, Oshkosh",Oshkosh,WI
+Georgia State University,Atlanta,GA
+George Mason University,Fairfax,VA
+University of Texas San Antonio,San Antonio,TX
+Kent State University,Kent,OH
+Ithaca College,Ithaca,NY
+University of Arizona,Tucson,AZ
+Vanderbilt University,Nashville,TN
+College of William and Mary,Williamsburg,VA
+Central Connecticut State University,New Britain,CT
+Wellesley College,Wellesley,MA
+Claremont Colleges - Scripps,Claremont,CA
+Kalamazoo College,Kalamazoo,MI
+University of Oklahoma,Norman,OK
+Nassau Community College,Garden City,NY
+"Northern Virginia Community College, Annandale",Annandale,VA
+University of Toledo,Toledo,OH
+Wake Forest University,Winston-Salem,NC
+Florida International University,Miami,FL
+CUNY John Jay College,New York,NY
+Keene State College,Keene,NH
+University of California Santa Cruz,Santa Cruz,CA
+"University of Wisconsin, Madison",Madison,WI
+Community College of Rhode Island,Providence,RI
+Colby College,Waterville,ME
+Fullerton College,Fullerton,CA
+University of Kansas,Lawrence,KS
+St. Joseph's University,Philadelphia,PA
+Stockton University,Galloway,NJ
+El Camino College,Torrance,CA
+Bucknell University,Lewisburg,PA
+Washington University St. Louis,St. Louis,MO
+University of California System,,
+Dartmouth College,Hanover,NH
+CSU Northridge,Northridge,CA
+University of South Alabama,Mobile,AL
+Amherst College,Amherst,MA
+University of Richmond,Richmond,VA
+Eastern Michigan University,Ypsilanti,MI
+SUNY Purchase,Purchase,NY
+"Pennsylvania State University, Harrisburg",Harrisburg,PA
+Pennsylvania State University,State College,PA
+Northeastern Illinois University,Chicago,IL
+Grinnell College,Grinnell,IA
+Washington State University,Pullman,WA
+Carnegie Mellon University,Pittsburgh,PA
+Earlham College,Richmond,IN
+Macalester College,St Paul,MN
+Goucher College,Towson,MD
+University of Cincinnati,Cincinnati,OH
+University of Rochester,Rochester,NY
+"California Polytechnic State University, SLO",San Luis Obispo,CA
+Manchester Community College,Manchester,CT
+Regis University,Denver,CO
+Loyola University Chicago,Chicago,IL
+Passaic County Community College,Paterson,NJ
+Drake University,Des Moines,IA
+Millersville University,Millersville,PA
+CUNY Hunter College,New York,NY
+University of Nevada Las Vegas,Las Vegas,NV
+Oregon State University,Corvallis,OR
+Missouri University of Science and Technology,,
+Emmanuel College,Boston,MA
+Olympic College,Bremerton,WA
+Roanoke College,Salem,VA
+University of North Florida,Jacksonville,FL
+Becker College,Worcester,MA
+Virginia Western Community College,Roanoke,VA
+Dutchess Community College,Poughkeepsie,NY
+Lake Erie College,Painesville,OH
+Citrus College,Glendora,CA
+University of North Texas,Denton,TX
+Marist College,Poughkeepsie,NY
+Sacramento City College,Sacramento,CA
+University of North Carolina Asheville,Asheville,NC
+Queens University of Charlotte,Charlotte,NC
+Appalachian State University,Boone,NC
+Bowdoin College,Brunswick,ME
+St. Scholastica College,Duluth,MN
+Nazareth College,Rochester,NY
+Lafayette College,Easton,PA
+Colgate University,Hamilton,NY
+Cleveland State University,Cleveland,OH
+University of New Orleans,New Orleans,LA
+Pasadena City College,Pasadena,CA
+Gettysburg College,Gettysburg,PA
+Castleton University,Castleton,VT
+Indiana University Purdue University Indianapolis (IUPUI),Indianapolis,IN
+University of Delaware,Newark,DE
+St. Louis University,St. Louis,MO
+University of Oregon,Eugene,OR
+Merritt College,Oakland,CA
+CUNY System,New York,NY
+Texas State University,San Marcos,TX
+William Paterson University,Wayne,NJ
+CUNY The Graduate Center,New York,NY
+CSU East Bay,Hayward,CA
+Santa Clara University,Santa Clara,CA
+"University of Nebraska, Omaha",Omaha,NE
+Community College of Philadelphia,Philadelphia,PA
+SUNY Stony Brook,Stony Brook,NY
+Towson University,Towson,MD
+American University,Washington,DC
+Knox College,Galesburg,IL
+University of Rhode Island,Kingston,RI
+DePauw University,,
+Haverford College,Haverford,PA
+College of Lake County,Grayslake,IL
+Central Michigan University,Mt Pleasant,MI
+University of Louisville,Louisville,KY
+Mt. Holyoke College,South Hadley,MA
+East Carolina University,Greenville,NC
+University of Utah,Salt Lake City,UT
+University of Virginia,Charlottesville,VA
+Western New England University,Springfield,MA
+Marquette University,Milwaukee,WI
+University of Michigan - Flint,Flint,MI
+Truckee Meadows Community College,Reno,NV
+Utah Valley University,Orem,UT
+Weber State University,Ogden,UT
+Tarrant County Community College,Arlington,TX
+Youngstown State University,Youngstown,OH
+Clark College,Vancouver,WA
+Luther College,Decorah,IA
+CUNY Kingsborough Community College,Brooklyn,NY
+SUNY Alfred State,Alfred,NY
+Howard University,Washington,DC
+University of Maine,Orono,ME
+Xavier University,Cincinnati,OH
+School of the Art Institute of Chicago,,
+Middle Tennessee State University,Murfreesboro,TN
+"University of Alabama, Huntsville",Huntsville,AL
+Muhlenberg College,Allentown,PA
+University of Tennessee at Chattanooga,Chattanooga,TN
+Evergreen Valley College,San Jose,CA
+University of New Mexico,Albuquerque,NM
+College of the Holy Cross,Worcester,MA
+Montclair State University,Montclair,NJ
+Maricopa Community Colleges,Tempe,AZ
+Columbia College Chicago,Chicago,IL
+St. Olaf College,Northfield,MN
+University of Kentucky,Lexington,KY
+University of Wyoming,Laramie,WY
+Portland Community College Cascade,Portland,OR
+Trinity College,Hartford,CT
+Florida Southern College,Lakeland,FL
+Buena Vista University,Storm Lake,IA
+Trinity University,San Antonio,TX
+Southern Methodist University,University Park,TX
+The New School,New York,NY
+Westfield State University,Westfield,MA
+Doane University,Crete,NE
+Eckerd College,St. Petersburg,FL
+Lutheran Theological Southern Seminary,Columbia,SC
+Illinois Institute of Technology,Chicago,IL
+Boise State University,Boise,ID
+Evergreen State College,Olympia,WA
+Reed College,Portland,OR
+Suffolk University,Boston,MA
+Wright State University,Fairborn,OH
+CSU Long Beach,Long Beach,CA
+University of Maryland Baltimore County,Catonsville,MD
+Clark University,Worcester,MA
+Virginia Commonwealth University,Richmond,VA
+Metropolitan State University of Denver,Denver,CO
+Bentley University,Waltham,MA
+Kutztown University,Kutztown,PA
+Texas A & M University,College Station,TX
+University of Mississippi,University,MS
+"University of Wisconsin, Stevens Point",Stevens Point,WI
+University of Mary Washington,Fredericksburg,VA
+University of Puget Sound,Tacoma,WA
+Avila University,Kansas City,MO
+Hofstra University,Garden City,NY
+St. Cloud State University,St Cloud,MN
+University of New Hampshire,Durham,NH
+Louisiana College,Pineville,LA
+University of Denver,Denver,CO
+SUNY at Albany,Albany,NY
+Roger Williams University,Bristol,RI
+Kansas State University,,
+SUNY Plattsburgh,Plattsburgh,NY
+Kenyon College,Gambier,OH
+Green Mountain College,Poultney,VT
+Mayfield College,Twentynine Palms,CA
+Claremont Colleges - System,Claremont,CA
+Auburn University,Auburn,AL
+Seattle University,Seattle,WA
+Spelman College,Atlanta,GA
+Virginia Polytechnic Institute,Blacksburg,VA
+De Anza College,Cupertino,CA
+Curry College,Milton,MA
+University of California Hastings,San Francisco,CA
+University of Dayton,Dayton,OH
+County College of Morris,Randolph,NJ
+Manhatanville College,Purchase,NY
+CUNY College of Staten Island,Staten Island,NY
+University of Missouri Columbia,,
+University of San Diego,San Diego,CA
+St. Joseph's College,Brooklyn,NY
+Rhode Island School of Design,Providence,RI
+Southern Utah University,Cedar City,UT
+SUNY Cortland,Cortland,NY
+Beloit College,Beloit,WI
+Albion College,Albion,MI
+University of North Carolina Charlotte,Charlotte,NC
+Hebrew Union College-Jewish Institute of Religion,New York,NY
+Florida Keys Community College,Key West,FL
+Anne Arundel Community College,Arnold,MD
+College of Charleston,Charleston,SC
+"Montana State University, Billings",Billings,MT
+Susquehanna University,Selinsgrove,PA
+SUNY Geneseo,Geneseo,NY
+Franklin and Marshall College,Lancaster,PA
+Guilford College,Greensboro,NC
+Lawrence University,Appleton,WI
+Mt. San Antonio College,Walnut,CA
+Connecticut College,New London,CT
+Webster University,Webster Groves,MO
+University of California Merced,Merced,CA
+St. Xavier University,Chicago,IL
+University of Notre Dame,Notre Dame,IN
+Biola University,La Mirada,CA
+Pace University - Pleasantville,Pleasantville,NY
+Morehouse College,Atlanta,GA
+Old Dominion University,Norfolk,VA
+Hollins University,Hollins,VA
+Florida Institute Of Technology,Melbourne,FL
+Warren Wilson College,Swannanoa,NC
+Claremont Colleges - Claremont McKenna,Claremont,CA
+Pace University,New York,NY
+Oakland University,Auburn Hills,MI
+Bradley University,Peoria,IL
+Elizabethtown College,Elizabethtown,PA
+Calvin College,Grand Rapids,MI
+CUNY Medgar Evers College,Brooklyn,NY
+Harvey Mudd College,Claremont,CA
+Rowan University,Glassboro,NJ
+Texas Christian University,Fort Worth,TX
+University of North Carolina Greensboro,Greensboro,NC
+Mt. San Jacinto College,San Jacinto,CA
+Valdosta State University,Valdosta,GA
+Augsburg College,Minneapolis,MN
+Marygrove College,Detroit,MI
+University of South Dakota,Vermillion,SD
+University of Colorado Boulder,Boulder,CO
+Oakton Community College,Des Plaines,IL
+Southern Illinois University Edwardsville,Edwardsville,IL
+Western New Mexico State University,Silver City,NM
+Tompkins Cortland Community College,Dryden,NY
+Michigan Technological University,Houghton,MI
+Seton Hall University,South Orange,NJ
+Bates College,Lewiston,ME
+California Community Colleges System,,
+Oglethorpe University,Brookhaven,GA
+Los Angeles Valley College,Sherman Oaks,CA
+Miami University Ohio,Oxford,OH
+Framingham State University,Framingham,MA
+Louisville State University,Louisville,KY
+Fairleigh Dickinson University,Teaneck,NJ
+Delaware Valley College,New Britain,PA
+Willamette University,Salem,OR
+Mount Mercy University,Cedar Rapids,IA
+University of Texas Arlington,Arlington,TX
+Drew University,Madison,NJ
